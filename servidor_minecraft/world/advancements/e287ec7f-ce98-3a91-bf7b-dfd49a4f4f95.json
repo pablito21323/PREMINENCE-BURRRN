@@ -24401,21 +24401,33 @@
     },
     "done": true
   },
-  "eldritch_end:recipes/building_blocks/decadent_etyr_bars": {
+  "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
+      "in_hive_temple": "2025-08-19 18:14:23 +0000"
+    },
+    "done": false
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-08-19 18:39:32 +0000"
     },
     "done": true
   },
-  "adventurez:recipes/chorus_fruit_on_a_stick_recipe": {
+  "eldritch_end:recipes/building_blocks/spire_stone_stairs": {
     "criteria": {
-      "got_the_chorus_fruit": "2025-08-19 19:05:00 +0000"
+      "has_spire_stone": "2025-08-19 19:01:51 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/dragon_smithing": {
+  "eldritch_end:recipes/building_blocks/polished_spire_stone": {
     "criteria": {
-      "has_dragon": "2025-08-19 19:16:19 +0000"
+      "has_spire_stone": "2025-08-19 19:01:51 +0000"
+    },
+    "done": true
+  },
+  "eldritch_end:recipes/building_blocks/spire_stone_slab": {
+    "criteria": {
+      "has_spire_stone": "2025-08-19 19:01:51 +0000"
     },
     "done": true
   },
@@ -24425,9 +24437,57 @@
     },
     "done": true
   },
-  "eldritch_end:recipes/building_blocks/spire_stone_stairs": {
+  "eldritch_end:recipes/building_blocks/etyr_ingot_from_blasting_raw_etyr": {
     "criteria": {
-      "has_spire_stone": "2025-08-19 19:01:51 +0000"
+      "has_raw_etyr": "2025-08-19 19:01:59 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chorus_fruit_on_a_stick_recipe": {
+    "criteria": {
+      "got_the_chorus_fruit": "2025-08-19 19:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-19 19:05:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2025-08-19 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "eldritch_end:recipes/building_blocks/decadent_etyr_bars": {
+    "criteria": {
+      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
+    },
+    "done": true
+  },
+  "eldritch_end:recipes/building_blocks/perturbed_etyr_bars": {
+    "criteria": {
+      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
+    },
+    "done": true
+  },
+  "eldritch_end:recipes/building_blocks/corrupted_etyr_bars": {
+    "criteria": {
+      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
+    },
+    "done": true
+  },
+  "eldritch_end:recipes/building_blocks/etyr_bars": {
+    "criteria": {
+      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-08-19 19:27:29 +0000"
     },
     "done": true
   },
@@ -24449,69 +24509,9 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/bn_brown_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_brown": "2025-08-19 19:27:29 +0000"
-    },
-    "done": true
-  },
-  "eldritch_end:recipes/building_blocks/perturbed_etyr_bars": {
-    "criteria": {
-      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
-    },
-    "done": true
-  },
-  "eldritch_end:recipes/building_blocks/polished_spire_stone": {
-    "criteria": {
-      "has_spire_stone": "2025-08-19 19:01:51 +0000"
-    },
-    "done": true
-  },
-  "eldritch_end:recipes/building_blocks/spire_stone_slab": {
-    "criteria": {
-      "has_spire_stone": "2025-08-19 19:01:51 +0000"
-    },
-    "done": true
-  },
-  "eldritch_end:recipes/building_blocks/corrupted_etyr_bars": {
-    "criteria": {
-      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_hive_temple": "2025-08-19 18:14:23 +0000"
-    },
-    "done": false
-  },
-  "eldritch_end:recipes/building_blocks/etyr_bars": {
-    "criteria": {
-      "has_etyr_ingot": "2025-08-19 19:20:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2025-08-19 20:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-08-19 19:05:00 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:tempest": {
-    "criteria": {
-      "requirement": "2025-08-19 18:39:32 +0000"
-    },
-    "done": true
-  },
-  "eldritch_end:recipes/building_blocks/etyr_ingot_from_blasting_raw_etyr": {
-    "criteria": {
-      "has_raw_etyr": "2025-08-19 19:01:59 +0000"
     },
     "done": true
   },
