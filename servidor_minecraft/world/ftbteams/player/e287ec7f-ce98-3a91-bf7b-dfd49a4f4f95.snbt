@@ -1,0 +1,17 @@
+{
+	id: "e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95"
+	type: "player"
+	player_name: "VadniesHael"
+	ranks: {
+		e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "VadniesHael"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
