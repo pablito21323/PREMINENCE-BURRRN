@@ -24991,5 +24991,29 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_fish_campfire": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smoker": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_whale_meat": {
+    "criteria": {
+      "got_the_ender_whale_meat": "2025-08-21 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smelting": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

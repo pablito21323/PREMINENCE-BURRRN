@@ -24515,6 +24515,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-08-21 01:07:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-21 01:04:34 +0000"
@@ -24526,6 +24532,102 @@
       "has_silence_armor_trim_smithing_template": "2025-08-21 01:04:34 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-21 01:07:28 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/local_void": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/storm_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-21 01:07:28 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/end_stone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/storm_armor_trim_smithing_template": {
+    "criteria": {
+      "has_storm_armor_trim_smithing_template": "2025-08-21 01:07:28 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-08-21 01:07:28 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone_scroll": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-08-21 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-08-21 01:07:58 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:trim_with_all_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-08-21 01:07:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
