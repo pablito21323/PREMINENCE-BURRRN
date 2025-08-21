@@ -8423,7 +8423,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-08-11 18:54:37 +0000"
+      "phantom": "2025-08-11 18:54:37 +0000",
+      "warden": "2025-08-21 01:38:36 +0000"
     },
     "done": false
   },
@@ -24993,15 +24994,33 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/sulphuric_rock_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/end_fish_campfire": {
     "criteria": {
       "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smoker": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smelting": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_whale_meat": {
+    "criteria": {
+      "got_the_ender_whale_meat": "2025-08-21 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
     },
     "done": true
   },
@@ -25023,21 +25042,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/end_fish_smoker": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/azure_jadestone_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-08-21 01:19:46 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/ender_whale_meat": {
-    "criteria": {
-      "got_the_ender_whale_meat": "2025-08-21 01:12:41 +0000"
     },
     "done": true
   },
@@ -25071,12 +25078,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/end_fish_smelting": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/diorite_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-08-21 01:19:46 +0000"
@@ -25092,6 +25093,24 @@
   "betterend:recipes/misc/violecite_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-08-21 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:excalibur": {
+    "criteria": {
+      "condition_1": "2025-08-21 01:38:36 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-08-21 01:38:45 +0000"
     },
     "done": true
   },
