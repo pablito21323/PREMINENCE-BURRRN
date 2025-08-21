@@ -2718,3 +2718,48 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:58:58] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
 [02:00:09] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
 [02:00:33] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[02:01:34] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[02:04:04] [Server thread/INFO]: VadniesHael lost connection: Timed out
+[02:04:04] [Server thread/INFO]: VadniesHael left the game
+[02:04:04] [Server thread/INFO]: remove player wand
+[02:04:04] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[02:04:04] [Server thread/WARN]: handleDisconnection() called twice
+[02:04:38] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[02:07:25] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[02:09:35] [Server thread/INFO]: [Handshake] Sending channel query
+[02:09:35] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[02:09:35] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[02:09:35] [Server thread/INFO]: VadniesHael[/127.146.157.221:37955] logged in with entity id 39844 at (1782.0511467101978, 99.0, 1910.1565347579822)
+[02:09:35] [Server thread/INFO]: Sending server config values to client
+[02:09:35] [Server thread/INFO]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
+[02:09:35] [Server thread/INFO]: Loading config from file...
+[02:09:36] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:09:36] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:09:36] [Server thread/INFO]: VadniesHael joined the game
+[02:09:36] [Server thread/INFO]: Loading Configs for Sortilege
+[02:09:36] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:09:36] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:09:36] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:09:36] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:09:36] [Server thread/INFO]: PLAYER_JOIN
+[02:09:36] [Server thread/INFO]: add_player wand
+[02:09:36] [Server thread/INFO]: config sent
+[02:09:36] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[02:09:37] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[02:09:40] [Netty Epoll Server IO #6/INFO]: Channel update: VadniesHael -> default
+[02:09:40] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player VadniesHael. Claiming: GRAVE / Robbing: INVENTORY
+[02:09:42] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:09:50] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:11:30] [Server thread/INFO]: Locating element aquamirae:ship took 74 ms
+[02:11:34] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 3744.500000, 102.062500, 3792.500000]
+[02:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
+[02:12:22] [Server thread/INFO]: Villager class_1646['Laree'/43193, l='ServerLevel[world]', x=-7820.37, y=67.00, z=-3318.47] died, message: 'Laree hit the ground too hard'
+[02:12:22] [Server thread/INFO]: Named entity class_1646['Laree'/43193, l='ServerLevel[world]', x=-7820.37, y=67.00, z=-3318.47] died: Laree fell from a high place
+[02:12:24] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[02:13:09] [Server thread/INFO]: VadniesHael has made the advancement [Exploration]
+[02:16:01] [Server thread/INFO]: VadniesHael has completed the challenge [The Dead Sea]
+[02:19:57] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas]] from pos class_2338{x=3061, y=75, z=3691}
+[02:20:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
+[02:20:33] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 2128.500000, 63.000000, 2734.500000]
+[02:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6426ms or 128 ticks behind

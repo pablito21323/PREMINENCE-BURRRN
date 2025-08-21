@@ -1390,17 +1390,25 @@
   },
   "beachparty:main/get_all_artifacts": {
     "criteria": {
+      "beachparty:floaty_boat": "2025-08-21 02:04:34 +0000",
+      "beachparty:trunks": "2025-08-21 02:05:45 +0000",
       "beachparty:rubber_ring_stripped": "2025-08-10 20:58:37 +0000",
       "beachparty:swim_wings": "2025-08-14 21:36:07 +0000",
-      "beachparty:beach_ball": "2025-08-10 20:58:36 +0000"
+      "beachparty:sunglasses": "2025-08-21 02:04:55 +0000",
+      "beachparty:beach_ball": "2025-08-10 20:58:36 +0000",
+      "beachparty:rubber_ring_axolotl": "2025-08-21 02:04:35 +0000"
     },
     "done": false
   },
   "beachparty:main/hoarder": {
     "criteria": {
+      "beachparty:floaty_boat": "2025-08-21 02:04:34 +0000",
+      "beachparty:trunks": "2025-08-21 02:05:45 +0000",
       "beachparty:swim_wings": "2025-08-14 21:36:07 +0000",
       "beachparty:beach_ball": "2025-08-10 20:58:36 +0000",
-      "beachparty:rubber_ring_stripped": "2025-08-10 20:58:37 +0000"
+      "beachparty:rubber_ring_axolotl": "2025-08-21 02:04:35 +0000",
+      "beachparty:rubber_ring_stripped": "2025-08-10 20:58:37 +0000",
+      "beachparty:sunglasses": "2025-08-21 02:04:55 +0000"
     },
     "done": false
   },
@@ -25111,6 +25119,30 @@
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-08-21 01:38:45 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-08-21 01:58:04 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-08-21 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-08-21 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-08-21 01:58:04 +0000"
     },
     "done": true
   },
