@@ -24168,6 +24168,7 @@
   },
   "betterend:all_the_biomes": {
     "criteria": {
+      "betterend:crystal_mountains": "2025-08-21 01:19:39 +0000",
       "betterend:empty_end_cave": "2025-08-19 01:18:29 +0000",
       "betterend:shadow_forest": "2025-08-19 19:16:32 +0000",
       "betterend:amber_land": "2025-08-19 01:32:58 +0000",
@@ -24182,7 +24183,8 @@
       "betterend:chorus_forest": "2025-08-19 01:31:32 +0000",
       "betterend:lantern_woods": "2025-08-19 00:33:24 +0000",
       "betterend:umbrella_jungle": "2025-08-19 00:32:51 +0000",
-      "betterend:megalake": "2025-08-19 01:22:36 +0000"
+      "betterend:megalake": "2025-08-19 01:22:36 +0000",
+      "betterend:blossoming_spires": "2025-08-21 01:18:52 +0000"
     },
     "done": false
   },
@@ -24991,9 +24993,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_fish_campfire": {
     "criteria": {
       "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/purpur_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blackstone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
     },
     "done": true
   },
@@ -25003,15 +25029,69 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/azure_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/ender_whale_meat": {
     "criteria": {
       "got_the_ender_whale_meat": "2025-08-21 01:12:41 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/aurora_block": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/granite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_fish_smelting": {
     "criteria": {
       "has_item.betterend.end_fish_raw": "2025-08-21 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-08-21 01:19:46 +0000"
     },
     "done": true
   },

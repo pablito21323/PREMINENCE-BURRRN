@@ -2573,3 +2573,20 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:19:20] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [01:19:31] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [01:19:33] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:21:32] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[01:21:32] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[01:21:37] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01:21:37] [Netty Epoll Server IO #4/ERROR]: Combo count: 0 is dual wielding: false
+[01:21:37] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 1 eternal_steak
+[01:21:37] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[01:21:37] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 4 | client: 1
+[01:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5615ms or 112 ticks behind
+[01:21:45] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:21:47] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:21:48] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:21:48] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:21:49] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:21:49] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:21:50] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:22:00] [Server thread/WARN]: Taza_free moved wrongly!
+[01:27:48] [Server thread/INFO]: [VadniesHael: Gave 1 experience points to Taza_free]
