@@ -2213,3 +2213,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 29 more
 [00:45:51] [Server thread/INFO]: [VadniesHael: Gave 64 [Runic Tablet] to VadniesHael]
 [00:48:51] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[00:49:50] [Server thread/INFO]: [VadniesHael: Gave 500000 experience points to Taza_free]
+[00:49:53] [Server thread/INFO]: Villager class_1646['Babette'/153, l='ServerLevel[world]', x=1828.70, y=101.12, z=1940.30] died, message: 'Babette was slain by Zombie'
+[00:49:53] [Server thread/INFO]: Named entity class_1646['Babette'/153, l='ServerLevel[world]', x=1828.70, y=101.12, z=1940.30] died: Babette was slain by Zombie
+[00:49:57] [Server thread/INFO]: [VadniesHael: Gave 4000000 experience points to VadniesHael]
+[00:50:04] [Server thread/INFO]: Villager class_1646['Santiago'/152, l='ServerLevel[world]', x=1828.61, y=101.00, z=1942.62] died, message: 'Santiago was slain by Zombie'
+[00:50:04] [Server thread/INFO]: Named entity class_1646['Santiago'/152, l='ServerLevel[world]', x=1828.61, y=101.00, z=1942.62] died: Santiago was slain by Zombie
+[00:50:10] [Server thread/INFO]: Villager class_1646['Shantelle'/151, l='ServerLevel[world]', x=1831.59, y=102.18, z=1940.16] died, message: 'Shantelle was slain by Babette'
+[00:50:10] [Server thread/INFO]: Named entity class_1646['Shantelle'/151, l='ServerLevel[world]', x=1831.59, y=102.18, z=1940.16] died: Shantelle was slain by Babette
+[00:51:14] [Server thread/WARN]: VadniesHael moved wrongly!
+[00:51:15] [Server thread/WARN]: VadniesHael moved wrongly!
+[00:51:38] [Server thread/INFO]: [VadniesHael: Gave 64 [Ancient Debris] to VadniesHael]
+[00:54:35] [Server thread/WARN]: UUID of added entity already exists: Butterfly['Butterfly'/1824, l='ServerLevel[world]', x=1631.93, y=164.95, z=1733.99]
+[00:55:10] [Server thread/WARN]: UUID of added entity already exists: Butterfly['Butterfly'/2231, l='ServerLevel[world]', x=1632.87, y=163.16, z=1727.94]
