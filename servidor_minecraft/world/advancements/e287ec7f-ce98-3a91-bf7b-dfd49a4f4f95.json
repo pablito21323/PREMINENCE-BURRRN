@@ -18521,9 +18521,10 @@
       "minecraft:crimson_forest": "2025-08-16 02:35:54 +0000",
       "minecraft:soul_sand_valley": "2025-08-16 03:34:53 +0000",
       "minecraft:nether_wastes": "2025-08-17 02:13:38 +0000",
-      "minecraft:warped_forest": "2025-08-19 19:58:10 +0000"
+      "minecraft:warped_forest": "2025-08-19 19:58:10 +0000",
+      "minecraft:basalt_deltas": "2025-08-22 20:14:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherdepthsupgrade:main/root": {
     "criteria": {

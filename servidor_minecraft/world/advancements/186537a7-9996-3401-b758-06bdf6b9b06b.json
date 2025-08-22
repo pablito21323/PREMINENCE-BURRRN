@@ -735,6 +735,7 @@
       "minecraft:skeleton": "2025-08-10 22:59:06 +0000",
       "minecraft:elder_guardian": "2025-08-18 18:43:33 +0000",
       "minecraft:ravager": "2025-08-12 05:46:47 +0000",
+      "minecraft:ghast": "2025-08-22 20:10:52 +0000",
       "minecraft:hoglin": "2025-08-16 06:31:16 +0000",
       "minecraft:guardian": "2025-08-14 06:34:41 +0000",
       "minecraft:vindicator": "2025-08-12 05:44:46 +0000",
@@ -25146,6 +25147,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-22 20:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-22 19:54:50 +0000"
@@ -25215,6 +25222,12 @@
   "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-22 19:20:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blue_obsidian_glass_pane": {
+    "criteria": {
+      "has_blue_obsidian_glass": "2025-08-22 20:13:36 +0000"
     },
     "done": true
   },
