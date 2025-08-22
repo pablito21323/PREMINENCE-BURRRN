@@ -2385,3 +2385,98 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [19:23:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [19:23:44] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1838.500000, 96.500000, 1882.500000]
 [19:23:45] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1838, 96, 1882, minecraft:overworld
+[19:25:51] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[19:26:45] [Server thread/WARN]: Taza_free moved wrongly!
+[19:26:46] [Server thread/WARN]: Taza_free moved wrongly!
+[19:29:50] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[19:30:04] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[19:30:52] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[19:31:49] [Server thread/INFO]: Locating element minecraft:ancient_city took 1168 ms
+[19:31:52] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 3568.500000, -35.135546, 2368.500000]
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:31:56] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[19:32:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9659ms or 193 ticks behind
+[19:33:19] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[19:33:51] [Server thread/WARN]: Taza_free moved wrongly!
+[19:34:14] [Server thread/INFO]: VadniesHael was slain by Warden
+[19:34:14] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.34.14.dat
+[19:34:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:34:36] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[19:34:45] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 3650.500000, -47.500000, 2390.500000]
+[19:35:11] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[19:35:15] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 3650, -48, 2390, minecraft:overworld
+[19:35:26] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=3609, y=12, z=2193}
+[19:35:26] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=3609, y=12, z=2192}
+[19:35:35] [Server thread/INFO]: VadniesHael was obliterated by a sonically-charged shriek
+[19:35:35] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.35.35.dat
+[19:35:36] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:36:19] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 3642.500000, -50.500000, 2358.500000]
+[19:36:40] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 3644, -48, 2372, minecraft:overworld
+[19:36:46] [Server thread/INFO]: VadniesHael was slain by Warden
+[19:36:46] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.36.46.dat
+[19:36:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:37:11] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 3645.500000, -50.500000, 2356.500000]
+[19:37:12] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 3645, -51, 2356, minecraft:overworld
+[19:37:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=3612, y=12, z=2185}
+[19:37:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=3612, y=12, z=2183}
+[19:37:19] [Server thread/INFO]: VadniesHael has completed the challenge [Phantom Thief]
+[19:38:59] [Server thread/INFO]: VadniesHael was slain by Warden
+[19:38:59] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.38.59.dat
+[19:39:00] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:39:12] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 3612.500000, -50.500000, 2367.500000]
+[19:39:13] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 3613, -51, 2367, minecraft:overworld
+[19:39:18] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=3612, y=12, z=2183}
+[19:39:18] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=3612, y=12, z=2185}
+[19:39:35] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[19:44:36] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:44:36] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:44:36] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:44:36] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
