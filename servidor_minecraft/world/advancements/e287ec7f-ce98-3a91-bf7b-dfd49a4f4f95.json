@@ -25719,5 +25719,29 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-08-22 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-08-22 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_lizard_tail": {
+    "criteria": {
+      "has_lizard_tail": "2025-08-22 23:06:56 +0000"
+    },
+    "done": true
+  },
+  "prominent:ashedar": {
+    "criteria": {
+      "requirement": "2025-08-22 23:17:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
