@@ -25106,6 +25106,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-08-22 21:21:42 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/scorched_bramble": {
     "criteria": {
       "has_item": "2025-08-22 20:42:03 +0000"

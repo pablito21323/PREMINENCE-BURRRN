@@ -2679,3 +2679,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:07:04] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
 [21:10:25] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
 [21:16:26] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[21:20:20] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[21:24:59] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[21:25:02] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[21:25:03] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[21:25:07] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
