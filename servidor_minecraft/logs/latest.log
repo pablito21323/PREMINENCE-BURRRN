@@ -2290,3 +2290,98 @@ BCLib - The End  BiomeSource (711c0119)
 [19:12:04] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1858, 97, 1907, minecraft:overworld
 [19:13:07] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[19:17:45] [Server thread/WARN]: VadniesHael moved wrongly!
+[19:18:55] [Server thread/INFO]: [VadniesHael: Teleported 213 entities to VadniesHael]
+[19:18:56] [Server thread/WARN]: VadniesHael moved wrongly!
+[19:18:58] [Server thread/INFO]: Villager class_1646['Laureen'/15035, l='ServerLevel[world]', x=1862.70, y=97.00, z=1927.43] died, message: 'Laureen was struck by lightning'
+[19:18:58] [Server thread/INFO]: Named entity class_1646['Laureen'/15035, l='ServerLevel[world]', x=1862.70, y=97.00, z=1927.43] died: Laureen was struck by lightning
+[19:18:58] [Server thread/INFO]: Villager class_1646['Lemuel'/15516, l='ServerLevel[world]', x=1860.03, y=98.22, z=1924.19] died, message: 'Lemuel was struck by lightning'
+[19:18:58] [Server thread/INFO]: Named entity class_1646['Lemuel'/15516, l='ServerLevel[world]', x=1860.03, y=98.22, z=1924.19] died: Lemuel was struck by lightning
+[19:18:58] [Server thread/INFO]: Villager class_1646['Carline'/15517, l='ServerLevel[world]', x=1858.38, y=98.22, z=1922.62] died, message: 'Carline was struck by lightning'
+[19:18:58] [Server thread/INFO]: Named entity class_1646['Carline'/15517, l='ServerLevel[world]', x=1858.38, y=98.22, z=1922.62] died: Carline was struck by lightning
+[19:18:58] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[19:18:58] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[19:18:58] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[19:20:14] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[19:20:47] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[19:20:47] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.20.47.dat
+[19:20:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:21:01] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1840.500000, 102.500000, 1896.500000]
+[19:21:02] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1840, 102, 1896, minecraft:overworld
+[19:21:02] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[19:21:02] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.21.02.dat
+[19:21:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:21:11] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[19:21:22] [Server thread/INFO]: VadniesHael was slain by Vex
+[19:21:22] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.21.22.dat
+[19:21:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:21:37] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1816.500000, 96.500000, 1917.500000]
+[19:21:54] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1838, 102, 1897, minecraft:overworld
+[19:21:56] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[19:21:56] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.21.56.dat
+[19:21:58] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:22:06] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1838.500000, 98.500000, 1899.500000]
+[19:22:12] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1839, 100, 1900, minecraft:overworld
+[19:23:02] [Server thread/INFO]: VadniesHael was slain by Vex
+[19:23:02] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.23.02.dat
+[19:23:02] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:23:02] [Netty Epoll Server IO #3/ERROR]: Combo count: 11 is dual wielding: false
+[19:23:02] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[19:23:02] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[19:23:02] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 6 | client: 6
+[19:23:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:23:11] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[19:23:27] [Server thread/INFO]: VadniesHael was slain by Vex
+[19:23:27] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.23.27.dat
+[19:23:28] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:23:33] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1838.500000, 96.500000, 1877.500000]
+[19:23:34] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1838, 96, 1877, minecraft:overworld
+[19:23:38] [Server thread/INFO]: VadniesHael was slain by Vex
+[19:23:38] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.23.38.dat
+[19:23:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:23:44] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1838.500000, 96.500000, 1882.500000]
+[19:23:45] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1838, 96, 1882, minecraft:overworld

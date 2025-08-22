@@ -25164,6 +25164,18 @@
     },
     "done": true
   },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-08-22 19:20:18 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-22 19:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-08-22 19:03:48 +0000"
