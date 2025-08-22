@@ -24981,6 +24981,12 @@
     },
     "done": true
   },
+  "prominent:unlock_mythic_challenges": {
+    "criteria": {
+      "requirement": "2025-08-22 22:31:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/end_stone_brick_cracked_slab": {
     "criteria": {
       "has_end_stone_brick_cracked": "2025-08-22 22:13:08 +0000"

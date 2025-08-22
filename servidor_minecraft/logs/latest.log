@@ -3422,3 +3422,26 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:27:02] [Server thread/INFO]: Named entity NullEntity['꠵'/73899, l='ServerLevel[world]', x=-1893.55, y=-13818.49, z=-1602.84] died: ꠵ fell out of the world
 [22:27:12] [Worker-Main-76/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [22:28:40] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[22:29:35] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[22:30:26] [Server thread/INFO]: VadniesHael was slain by ꠵
+[22:30:26] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.30.26.dat
+[22:30:27] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:30:37] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[22:30:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:30:47] [Server thread/INFO]: Taza_free has made the advancement [Endless Void]
+[22:30:47] [Server thread/INFO]: Named entity NullEntity['꠵'/74813, l='ServerLevel[world]', x=-1915.42, y=79.00, z=-1563.25] died: ꠵ was shot by Taza_free
+[22:30:49] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -1915, 77, -1574, minecraft:the_end
+[22:30:56] [Server thread/INFO]: VadniesHael was slain by Enderman
+[22:30:56] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.30.56.dat
+[22:31:00] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:31:06] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[22:31:07] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:31:14] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -1923, 77, -1576, minecraft:the_end
+[22:31:19] [Server thread/INFO]: Taza_free has completed the challenge [Void's Invasion: Chapter II]
+[22:31:27] [Server thread/INFO]: VadniesHael has completed the challenge [Void's Invasion: Chapter II]
+[22:34:19] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[22:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[22:37:50] [Server thread/INFO]: VadniesHael lost connection: Disconnected
+[22:37:50] [Server thread/INFO]: VadniesHael left the game
+[22:37:50] [Server thread/INFO]: remove player wand
+[22:37:50] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95

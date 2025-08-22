@@ -25361,6 +25361,12 @@
     },
     "done": true
   },
+  "prominent:unlock_mythic_challenges": {
+    "criteria": {
+      "requirement": "2025-08-22 22:31:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-22 22:09:11 +0000"
@@ -25544,6 +25550,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-22 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "archon:kill_null": {
+    "criteria": {
+      "archon:null": "2025-08-22 22:30:47 +0000"
     },
     "done": true
   },
