@@ -24813,6 +24813,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column": {
+    "criteria": {
+      "has_item": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
@@ -24825,6 +24831,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/stonecutter_end_stone_brick_cracked_wall": {
+    "criteria": {
+      "has_block.betterend.end_stone_brick_cracked": "2025-08-22 22:13:08 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/yellow_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
@@ -24834,6 +24846,12 @@
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-08-22 18:47:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -24873,9 +24891,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "bewitchment:hidden_unlocks/athame": {
     "criteria": {
       "has_item": "2025-08-22 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -24927,9 +24963,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/pure_moonlight_greatsword": {
     "criteria": {
       "has_item": "2025-08-22 21:40:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_stone_brick_cracked_slab": {
+    "criteria": {
+      "has_end_stone_brick_cracked": "2025-08-22 22:13:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -24951,6 +25005,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/brown_cushion": {
     "criteria": {
       "has_brown_cushion": "2025-08-22 21:08:38 +0000"
@@ -24960,6 +25020,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25005,9 +25071,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-08-22 21:43:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25017,9 +25095,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_boots": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25035,9 +25125,33 @@
     },
     "done": true
   },
+  "quartzelv:recipes/building_blocks/quartz_elevator_from_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_end_stone_brick_cracked_stairs": {
+    "criteria": {
+      "has_block.betterend.end_stone_brick_cracked": "2025-08-22 22:13:08 +0000"
     },
     "done": true
   },
@@ -25047,15 +25161,57 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_stone_brick_cracked_stairs": {
+    "criteria": {
+      "has_end_stone_brick_cracked": "2025-08-22 22:13:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_leggings": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_rune_of_the_storm": {
     "criteria": {
       "rune_of_the_storm": "2025-08-22 18:58:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25074,6 +25230,12 @@
   "vinery:recipes/vinemaker_boots": {
     "criteria": {
       "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25119,15 +25281,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_ingot_boots": {
     "criteria": {
       "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25155,9 +25341,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/chaos_orb": {
     "criteria": {
       "has_item": "2025-08-22 21:40:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25170,6 +25368,12 @@
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2025-08-22 18:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25215,9 +25419,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_shingle_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
     "criteria": {
       "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25233,6 +25455,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_plates_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2025-08-22 21:08:38 +0000"
@@ -25242,6 +25476,18 @@
   "betternether:recipes/tools/flaming_ruby_axe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_glass_smelting": {
+    "criteria": {
+      "has_block.betterend.endstone_dust": "2025-08-22 22:12:55 +0000"
     },
     "done": true
   },
@@ -25272,6 +25518,12 @@
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-08-22 19:37:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25323,9 +25575,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/stonecutter_end_stone_brick_cracked_slab": {
+    "criteria": {
+      "has_block.betterend.end_stone_brick_cracked": "2025-08-22 22:13:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-08-22 21:43:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25335,9 +25599,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/green_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
@@ -25383,9 +25683,21 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-22 22:09:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_helmet": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-22 22:09:31 +0000"
     },
     "done": true
   },
