@@ -24797,6 +24797,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-08-22 18:58:03 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/spinefish": {
     "criteria": {
       "has_item": "2025-08-22 18:50:17 +0000"
@@ -24812,6 +24818,12 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2025-08-22 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-08-22 18:53:29 +0000"
     },
     "done": true
   },

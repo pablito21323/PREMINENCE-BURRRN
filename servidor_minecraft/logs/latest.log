@@ -2191,3 +2191,64 @@ BCLib - The End  BiomeSource (711c0119)
 [18:52:33] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 2122.500000, -27.500000, 4734.500000]
 [18:52:41] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=1968, y=-54, z=4907}
 [18:52:50] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 2122, -26, 4733, minecraft:overworld
+[18:53:12] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1954, y=2, z=4924}
+[18:53:12] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1953, y=2, z=4924}
+[18:53:24] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[18:55:05] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[18:56:17] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[18:58:03] [Server thread/INFO]: VadniesHael has reached the goal [Heart Of The Storm]
+[19:00:23] [Server thread/WARN]: VadniesHael moved wrongly!
+[19:02:08] [Server thread/INFO]: [Handshake] Sending channel query
+[19:02:08] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[19:02:08] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[19:02:08] [Server thread/INFO]: Taza_free[/127.137.233.5:37227] logged in with entity id 9777 at (2751.5680402458074, 90.0, 3649.192632982797)
+[19:02:08] [Server thread/INFO]: Sending server config values to client
+[19:02:08] [Server thread/INFO]: Syncing config to Taza_free (186537a7-9996-3401-b758-06bdf6b9b06b)
+[19:02:08] [Server thread/INFO]: Loading config from file...
+[19:02:08] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[19:02:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:02:08] [Server thread/INFO]: Taza_free joined the game
+[19:02:08] [Server thread/INFO]: Loading Configs for Sortilege
+[19:02:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[19:02:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[19:02:08] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[19:02:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:02:08] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[19:02:09] [Server thread/INFO]: PLAYER_JOIN
+[19:02:09] [Server thread/INFO]: add_player wand
+[19:02:09] [Server thread/INFO]: config sent
+[19:02:11] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[19:02:14] [Netty Epoll Server IO #6/INFO]: Channel update: Taza_free -> default
+[19:02:14] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
+[19:02:18] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=2698, y=13, z=3726}
+[19:02:19] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[19:02:25] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=2857, y=-42, z=3609}
+[19:02:25] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=2855, y=-42, z=3609}
+[19:02:33] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[19:02:50] [Server thread/INFO]: [VadniesHael: Teleported 346 entities to Taza_free]
+[19:02:51] [Server thread/INFO]: VadniesHael was slain by Mimic
+[19:02:51] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.02.51.dat
+[19:02:53] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:02:59] [Server thread/INFO]: Named entity class_3989['Erika'/10294, l='ServerLevel[world]', x=1804.30, y=95.18, z=1904.96] died: Erika was slain by Vindicator
+[19:03:16] [Server thread/INFO]: VadniesHael was slain by Dragon
+[19:03:16] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-19.03.16.dat
+[19:03:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[19:03:20] [Server thread/INFO]: Villager class_1646['Nathalie'/8198, l='ServerLevel[world]', x=1834.45, y=96.00, z=1906.30] died, message: 'Nathalie was slain by Zombie'
+[19:03:20] [Server thread/INFO]: Named entity class_1646['Nathalie'/8198, l='ServerLevel[world]', x=1834.45, y=96.00, z=1906.30] died: Nathalie was slain by Zombie
+[19:03:21] [Server thread/INFO]: Villager class_1646['Kimberlie'/8225, l='ServerLevel[world]', x=1818.78, y=95.00, z=1905.20] died, message: 'Kimberlie was slain by Vindicator'
+[19:03:21] [Server thread/INFO]: Named entity class_1646['Kimberlie'/8225, l='ServerLevel[world]', x=1818.78, y=95.00, z=1905.20] died: Kimberlie was slain by Vindicator
+[19:03:27] [Server thread/INFO]: Villager class_1646['Larissa'/8172, l='ServerLevel[world]', x=1838.86, y=97.00, z=1903.56] died, message: 'Larissa was slain by Nathalie'
+[19:03:27] [Server thread/INFO]: Named entity class_1646['Larissa'/8172, l='ServerLevel[world]', x=1838.86, y=97.00, z=1903.56] died: Larissa was slain by Nathalie
+[19:03:33] [Server thread/INFO]: Villager class_1646['Byron'/8199, l='ServerLevel[world]', x=1826.50, y=96.00, z=1925.70] died, message: 'Byron was slain by Vindicator'
+[19:03:33] [Server thread/INFO]: Named entity class_1646['Byron'/8199, l='ServerLevel[world]', x=1826.50, y=96.00, z=1925.70] died: Byron was slain by Vindicator
+[19:03:34] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1818.500000, 96.500000, 1895.500000]
+[19:03:35] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1818, 96, 1895, minecraft:overworld
+[19:03:45] [Server thread/INFO]: Named entity class_1641['Nathalie'/10727, l='ServerLevel[world]', x=1829.00, y=96.00, z=1908.33] died: Nathalie was slain by VadniesHael
+[19:03:48] [Server thread/INFO]: Named entity class_1641['Larissa'/10757, l='ServerLevel[world]', x=1831.25, y=96.00, z=1903.50] died: Larissa was slain by VadniesHael
+[19:03:48] [Server thread/INFO]: Villager class_1646['Granville'/9748, l='ServerLevel[world]', x=1829.52, y=97.97, z=1915.70] died, message: 'Granville was struck by lightning'
+[19:03:48] [Server thread/INFO]: Named entity class_1646['Granville'/9748, l='ServerLevel[world]', x=1829.52, y=97.97, z=1915.70] died: Granville was struck by lightning
+[19:03:48] [Server thread/INFO]: VadniesHael has made the advancement [Surge Protector]
+[19:03:48] [Server thread/INFO]: Taza_free has made the advancement [Surge Protector]
+[19:04:02] [Server thread/INFO]: Villager class_1646['Mozella'/9753, l='ServerLevel[world]', x=1793.30, y=94.00, z=1877.51] died, message: 'Mozella was blown up by Hills Creeper'
+[19:04:02] [Server thread/INFO]: Named entity class_1646['Mozella'/9753, l='ServerLevel[world]', x=1793.30, y=94.00, z=1877.51] died: Mozella was blown up by Hills Creeper
