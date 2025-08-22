@@ -2733,3 +2733,55 @@ java.lang.ClassCastException: class artifacts.item.EverlastingFoodItem cannot be
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [21:36:38] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[21:38:07] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[21:39:33] [Server thread/INFO]: VadniesHael was shot by Harbinger of Moonlight
+[21:39:33] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.39.33.dat
+[21:39:35] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:39:41] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:39:45] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1841, 104, 1721, minecraft:overworld
+[21:39:59] [Server thread/INFO]: VadniesHael has completed the challenge [Blue Steel]
+[21:39:59] [Server thread/INFO]: Named entity Moonknight['Harbinger of Moonlight'/57235, l='ServerLevel[world]', x=1839.89, y=105.00, z=1718.58] died: Harbinger of Moonlight was slain by VadniesHael
+[21:40:03] [Server thread/INFO]: Taza_free has reached the goal [From the Software itself]
+[21:40:21] [Server thread/INFO]: VadniesHael was obliterated by Fallen Icon
+[21:40:21] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.40.21.dat
+[21:40:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:40:26] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:40:47] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1831, 105, 1702, minecraft:overworld
+[21:40:48] [Server thread/INFO]: VadniesHael was slain by Fallen Icon
+[21:40:48] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.40.48.dat
+[21:40:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:40:53] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:41:12] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1829, 105, 1702, minecraft:overworld
+[21:41:13] [Server thread/INFO]: VadniesHael was slain by Fallen Icon
+[21:41:13] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.41.13.dat
+[21:41:13] [Server thread/WARN]: VadniesHael moved wrongly!
+[21:41:15] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:41:18] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:41:25] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1823, 106, 1705, minecraft:overworld
+[21:41:27] [Server thread/INFO]: VadniesHael was slain by Fallen Icon
+[21:41:27] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.41.27.dat
+[21:41:28] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:41:31] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:41:38] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1820, 106, 1705, minecraft:overworld
+[21:42:00] [Server thread/INFO]: Taza_free was shot by Harbinger of Moonlight
+[21:42:00] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_22.08.2025-21.42.00.dat
+[21:42:02] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[21:42:16] [Server thread/INFO]: Named entity Moonknight['Harbinger of Moonlight'/57279, l='ServerLevel[world]', x=1812.50, y=105.00, z=1697.97] died: Harbinger of Moonlight was slain by VadniesHael
+[21:42:24] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[21:42:27] [Server thread/INFO]: Taza_free was shot by Arrow
+[21:42:27] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_22.08.2025-21.42.27.dat
+[21:42:27] [Server thread/INFO]: VadniesHael was shot by Arrow
+[21:42:27] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.42.27.dat
+[21:42:28] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:42:29] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[21:42:35] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:42:56] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1815.500000, 105.500000, 1698.500000]
+[21:42:58] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1814, 105, 1699, minecraft:overworld
+[21:43:10] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[21:43:11] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1812, 105, 1700, minecraft:overworld
+[21:43:21] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1810, 110, 1678, minecraft:overworld
+[21:45:02] [Server thread/WARN]: Taza_free moved wrongly!
+[21:46:09] [Server thread/WARN]: Taza_free moved wrongly!
+[21:46:12] [Server thread/WARN]: Taza_free moved wrongly!
+[21:46:13] [Server thread/WARN]: Taza_free moved wrongly!
+[21:46:32] [Server thread/INFO]: VadniesHael has completed the challenge [Void's Invasion: Chapter I]

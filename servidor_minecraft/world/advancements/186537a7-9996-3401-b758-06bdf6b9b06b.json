@@ -16623,6 +16623,7 @@
   },
   "soulsweapons:all_moonlight_weapons": {
     "criteria": {
+      "moonlight_greatsword": "2025-08-22 21:40:03 +0000",
       "bluemoon_greatsword": "2025-08-14 04:12:49 +0000",
       "bluemoon_shortsword": "2025-08-15 04:32:58 +0000"
     },
@@ -16634,6 +16635,7 @@
       "bluemoon_greatsword": "2025-08-14 04:12:49 +0000",
       "bluemoon_shortsword": "2025-08-15 04:32:58 +0000",
       "galeforce": "2025-08-18 19:12:24 +0000",
+      "moonlight_greatsword": "2025-08-22 21:40:03 +0000",
       "darkin_blade": "2025-08-16 05:36:09 +0000"
     },
     "done": false
@@ -25280,9 +25282,39 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/translucent_glaive": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_double_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_sword": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonlight_tools": {
+    "criteria": {
+      "moonlight_greatsword": "2025-08-22 21:40:03 +0000"
+    },
+    "done": true
+  },
   "bewitchment:hidden_unlocks/chalk": {
     "criteria": {
       "has_item": "2025-08-22 20:57:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
     },
     "done": true
   },
@@ -25292,9 +25324,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/black_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
     },
     "done": true
   },
@@ -25304,9 +25348,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/gray_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
     },
     "done": true
   },
@@ -25328,6 +25384,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-08-22 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:deadeye_spells": {
     "criteria": {
       "cast": "2025-08-22 21:34:41 +0000"
@@ -25340,9 +25408,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/purple_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:45 +0000"
     },
     "done": true
   },

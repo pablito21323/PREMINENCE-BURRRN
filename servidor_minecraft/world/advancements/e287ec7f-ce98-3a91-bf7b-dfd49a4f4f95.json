@@ -4192,7 +4192,8 @@
     "criteria": {
       "silver_birch_log": "2025-08-12 01:13:20 +0000",
       "redwood_log": "2025-08-14 21:19:33 +0000",
-      "socotra_log": "2025-08-10 20:35:30 +0000"
+      "socotra_log": "2025-08-10 20:35:30 +0000",
+      "maple_log": "2025-08-22 21:43:39 +0000"
     },
     "done": false
   },
@@ -24806,6 +24807,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-08-22 21:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
@@ -24833,6 +24840,30 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-08-22 21:43:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_glaive": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_double_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_sword": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
     },
     "done": true
   },
@@ -24872,9 +24903,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonknight": {
+    "criteria": {
+      "condition_0": "2025-08-22 21:39:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/pure_moonlight_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:02 +0000"
     },
     "done": true
   },
@@ -24914,6 +24963,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
@@ -24935,6 +24990,12 @@
   "bewitchment:recipes/misc/silver_nugget_from_blasting": {
     "criteria": {
       "has_item": "2025-08-22 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-22 21:43:39 +0000"
     },
     "done": true
   },
@@ -24986,6 +25047,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_boots": {
     "criteria": {
       "has_brown_wool": "2025-08-22 21:08:38 +0000"
@@ -25007,6 +25074,12 @@
   "bewitchment:hidden_unlocks/altars": {
     "criteria": {
       "has_item": "2025-08-22 20:38:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
     },
     "done": true
   },
@@ -25034,6 +25107,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:excalibur": {
     "criteria": {
       "condition_1": "2025-08-22 19:37:19 +0000"
@@ -25055,6 +25134,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/chaos_orb": {
+    "criteria": {
+      "has_item": "2025-08-22 21:40:02 +0000"
     },
     "done": true
   },
@@ -25136,6 +25221,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
   "bewitchment:hidden_unlocks/demon_horn": {
     "criteria": {
       "has_item": "2025-08-22 20:42:13 +0000"
@@ -25166,6 +25257,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/lapis_plate": {
     "criteria": {
       "has_lapis_block": "2025-08-22 21:34:08 +0000"
@@ -25175,6 +25272,12 @@
   "bewitchment:recipes/decorations/purple_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2025-08-22 21:38:46 +0000"
     },
     "done": true
   },
@@ -25193,6 +25296,12 @@
   "betternether:recipes/combat/flaming_ruby_sword": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-08-22 21:43:39 +0000"
     },
     "done": true
   },
@@ -25229,6 +25338,12 @@
   "bewitchment:recipes/decorations/brown_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-08-22 21:39:14 +0000"
     },
     "done": true
   },
