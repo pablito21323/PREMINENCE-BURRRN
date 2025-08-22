@@ -25769,6 +25769,12 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/ashes": {
+    "criteria": {
+      "arcane": "2025-08-22 23:38:18 +0000"
+    },
+    "done": true
+  },
   "simplyswords:the_watcher": {
     "criteria": {
       "requirement": "2025-08-22 23:23:51 +0000"

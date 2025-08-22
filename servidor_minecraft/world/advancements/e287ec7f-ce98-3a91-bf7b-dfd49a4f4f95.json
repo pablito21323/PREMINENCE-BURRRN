@@ -25755,6 +25755,12 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/omni": {
+    "criteria": {
+      "arcane": "2025-08-22 23:38:13 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/glassocean": {
     "criteria": {
       "arcane": "2025-08-22 23:35:05 +0000"
