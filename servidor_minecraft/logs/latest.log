@@ -3445,3 +3445,85 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:37:50] [Server thread/INFO]: VadniesHael left the game
 [22:37:50] [Server thread/INFO]: remove player wand
 [22:37:50] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[22:39:46] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[22:39:46] [Server thread/INFO]: Taza_free left the game
+[22:39:46] [Server thread/INFO]: remove player wand
+[22:39:46] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[22:43:46] [Server thread/INFO]: [Handshake] Sending channel query
+[22:43:46] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[22:43:46] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[22:43:46] [Server thread/INFO]: VadniesHael[/127.148.46.72:38533] logged in with entity id 77193 at (-1941.300000011921, 76.0, -1572.2036321715932)
+[22:43:46] [Server thread/INFO]: Sending server config values to client
+[22:43:46] [Server thread/INFO]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
+[22:43:46] [Server thread/INFO]: Loading config from file...
+[22:43:46] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[22:43:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:43:46] [Server thread/INFO]: VadniesHael joined the game
+[22:43:46] [Server thread/INFO]: Loading Configs for Sortilege
+[22:43:46] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[22:43:46] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[22:43:46] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[22:43:46] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:43:46] [Server thread/INFO]: PLAYER_JOIN
+[22:43:46] [Server thread/INFO]: add_player wand
+[22:43:46] [Server thread/INFO]: config sent
+[22:43:46] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[22:43:48] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[22:43:51] [Netty Epoll Server IO #5/INFO]: Channel update: VadniesHael -> default
+[22:43:51] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player VadniesHael. Claiming: GRAVE / Robbing: INVENTORY
+[22:43:53] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:44:24] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[22:45:01] [Server thread/INFO]: Locating element minecraft:mansion took 119 ms
+[22:45:05] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -655.500000, 98.500000, 464.500000]
+[22:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5470ms or 109 ticks behind
+[22:45:10] [Server thread/INFO]: [Handshake] Sending channel query
+[22:45:10] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[22:45:10] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[22:45:11] [Server thread/INFO]: Taza_free[/127.137.233.5:52899] logged in with entity id 77525 at (1382.1420453746364, 105.0, 1888.3155357272406)
+[22:45:11] [Server thread/INFO]: Sending server config values to client
+[22:45:11] [Server thread/INFO]: Syncing config to Taza_free (186537a7-9996-3401-b758-06bdf6b9b06b)
+[22:45:11] [Server thread/INFO]: Loading config from file...
+[22:45:11] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[22:45:11] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:45:11] [Server thread/INFO]: Taza_free joined the game
+[22:45:11] [Server thread/INFO]: Loading Configs for Sortilege
+[22:45:11] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[22:45:11] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[22:45:11] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[22:45:11] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:45:11] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[22:45:11] [Server thread/INFO]: PLAYER_JOIN
+[22:45:11] [Server thread/INFO]: add_player wand
+[22:45:11] [Server thread/INFO]: config sent
+[22:45:14] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[22:45:16] [Netty Epoll Server IO #1/INFO]: Channel update: Taza_free -> default
+[22:45:16] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
+[22:45:21] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[22:46:06] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[22:46:06] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.46.06.dat
+[22:46:07] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:46:15] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -685.500000, 82.500000, 487.500000]
+[22:46:30] [Server thread/INFO]: VadniesHael was slain by Kobold Warrior
+[22:46:30] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.46.30.dat
+[22:46:31] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:46:35] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -696.500000, 83.500000, 503.500000]
+[22:46:43] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[22:46:54] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -684, 82, 488, minecraft:overworld
+[22:47:33] [Server thread/INFO]: VadniesHael was slain by Vex
+[22:47:33] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.47.33.dat
+[22:47:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:47:38] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[22:47:44] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -655, 82, 502, minecraft:overworld
+[22:47:53] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[22:47:53] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.47.53.dat
+[22:47:55] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:47:58] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[22:48:14] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[22:48:14] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.48.14.dat
+[22:48:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:48:19] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[22:48:34] [Server thread/INFO]: VadniesHael was slain by Vindicator
+[22:48:34] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-22.48.34.dat
+[22:48:36] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[22:48:38] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
