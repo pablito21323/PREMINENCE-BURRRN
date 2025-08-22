@@ -25267,5 +25267,101 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/light_gray_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/yellow_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/chalk": {
+    "criteria": {
+      "has_item": "2025-08-22 20:57:08 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blue_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/black_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/orange_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/gray_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/light_blue_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/magenta_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/lime_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/purple_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/pink_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/green_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/red_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/brown_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cyan_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

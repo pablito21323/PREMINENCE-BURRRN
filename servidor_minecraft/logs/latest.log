@@ -2672,3 +2672,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[20:59:48] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[21:06:37] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[21:06:55] [Server thread/WARN]: Taza_free moved wrongly!
+[21:06:56] [Server thread/WARN]: Taza_free moved wrongly!
+[21:07:04] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]

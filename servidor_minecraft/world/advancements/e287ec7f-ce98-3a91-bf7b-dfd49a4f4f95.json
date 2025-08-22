@@ -24806,6 +24806,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/yellow_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
@@ -24836,6 +24842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
     "criteria": {
       "has_item": "2025-08-22 20:42:13 +0000"
@@ -24845,6 +24857,12 @@
   "bewitchment:recipes/misc/silver_nugget_from_smelting": {
     "criteria": {
       "has_item": "2025-08-22 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
     },
     "done": true
   },
@@ -24926,9 +24944,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/orange_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-08-22 21:03:48 +0000"
     },
     "done": true
   },
@@ -24956,6 +24986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:excalibur": {
     "criteria": {
       "condition_1": "2025-08-22 19:37:19 +0000"
@@ -24971,6 +25007,12 @@
   "betternether:recipes/combat/flaming_ruby_chestplate": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-08-22 21:03:48 +0000"
     },
     "done": true
   },
@@ -24992,6 +25034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/light_blue_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
@@ -25001,6 +25049,12 @@
   "bewitchment:recipes/decorations/magenta_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
     },
     "done": true
   },
@@ -25085,6 +25139,12 @@
   "bewitchment:recipes/decorations/cyan_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
     },
     "done": true
   },
