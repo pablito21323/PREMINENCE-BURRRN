@@ -2404,3 +2404,27 @@ BCLib - Nether BiomeSource (4c3fee46)
 [23:21:22] [Server thread/INFO]:  Opac canInteract false
 [23:21:22] [Server thread/INFO]:  Chunk Protection canBreakBlock
 [23:21:22] [Server thread/INFO]:  Opac canInteract false
+[23:23:51] [Server thread/INFO]: Taza_free has made the advancement [Always Watching]
+[23:24:42] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[23:24:42] [Server thread/INFO]: VadniesHael was killed
+[23:24:42] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-23.24.42.dat
+[23:24:46] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[23:24:51] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -5036.500000, 65.500000, 1391.500000]
+[23:24:56] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -5037, 65, 1391, minecraft:overworld
+[23:24:57] [Server thread/INFO]: VadniesHael was killed
+[23:24:57] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-23.24.57.dat
+[23:25:00] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[23:25:13] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[23:25:17] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -5036.500000, 65.500000, 1392.500000]
+[23:25:21] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -5037, 65, 1392, minecraft:overworld
+[23:25:38] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[23:25:51] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[23:25:51] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[23:29:37] [Server thread/INFO]: VadniesHael was slain by Vex
+[23:29:37] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-23.29.37.dat
+[23:29:40] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[23:29:45] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -5015.500000, 69.500000, 1399.500000]
+[23:29:54] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -5016, 69, 1399, minecraft:overworld
+[23:31:34] [Server thread/INFO]: [VadniesHael: Set the time to 1000]
+[23:31:40] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[23:31:54] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]

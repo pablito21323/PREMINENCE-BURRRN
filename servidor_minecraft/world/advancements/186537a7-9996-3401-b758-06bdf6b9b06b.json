@@ -25769,6 +25769,12 @@
     },
     "done": true
   },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-08-22 23:23:51 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_50_undead_archers": {
     "criteria": {
       "undead_archers_killed": "2025-08-22 23:16:56 +0000"
