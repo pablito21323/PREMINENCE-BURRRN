@@ -24800,6 +24800,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
@@ -24821,6 +24827,12 @@
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-08-22 18:47:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
     },
     "done": true
   },
@@ -24884,6 +24896,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/specter_bangle": {
     "criteria": {
       "has_item": "2025-08-22 20:41:51 +0000"
@@ -24914,6 +24938,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_boots": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
@@ -24932,6 +24962,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_leggings": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
@@ -24947,6 +24983,12 @@
   "ad_astra:recipes/misc/light_gray_flag": {
     "criteria": {
       "has_light_gray_flag": "2025-08-22 21:03:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
     },
     "done": true
   },
@@ -25052,6 +25094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
     "criteria": {
       "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
@@ -25061,6 +25109,12 @@
   "bewitchment:recipes/decorations/scorched_bramble": {
     "criteria": {
       "has_item": "2025-08-22 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
     },
     "done": true
   },
@@ -25079,6 +25133,12 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2025-08-22 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
     },
     "done": true
   },
@@ -25106,6 +25166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-22 21:08:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_sword": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
@@ -25127,6 +25193,12 @@
   "bewitchment:recipes/decorations/red_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_heart": {
+    "criteria": {
+      "has_item": "2025-08-22 21:06:43 +0000"
     },
     "done": true
   },

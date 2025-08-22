@@ -2677,3 +2677,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:06:55] [Server thread/WARN]: Taza_free moved wrongly!
 [21:06:56] [Server thread/WARN]: Taza_free moved wrongly!
 [21:07:04] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[21:10:25] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[21:16:26] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
