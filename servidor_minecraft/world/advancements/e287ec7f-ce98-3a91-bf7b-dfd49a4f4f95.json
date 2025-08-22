@@ -24939,6 +24939,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/eternal_crystal": {
+    "criteria": {
+      "has_item.minecraft.end_crystal": "2025-08-22 22:17:01 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_leggings": {
     "criteria": {
       "has_item": "2025-08-22 21:38:46 +0000"

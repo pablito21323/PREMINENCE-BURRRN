@@ -3417,3 +3417,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:17:59] [Server thread/INFO]: [VadniesHael: Gave 80000000 experience points to Taza_free]
 [22:18:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
 [22:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[22:19:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[22:22:04] [Server thread/INFO]: [VadniesHael: Gave 10 [Table of Elevation] to VadniesHael]
+[22:27:02] [Server thread/INFO]: Named entity NullEntity['꠵'/73899, l='ServerLevel[world]', x=-1893.55, y=-13818.49, z=-1602.84] died: ꠵ fell out of the world
+[22:27:12] [Worker-Main-76/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:28:40] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
