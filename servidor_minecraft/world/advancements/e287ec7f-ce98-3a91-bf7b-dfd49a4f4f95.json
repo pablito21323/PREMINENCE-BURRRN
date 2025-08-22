@@ -24794,9 +24794,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/light_gray_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/yellow_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
     },
     "done": true
   },
@@ -24812,9 +24824,51 @@
     },
     "done": true
   },
+  "bewitchment:hidden_unlocks/athame": {
+    "criteria": {
+      "has_item": "2025-08-22 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/chalk": {
+    "criteria": {
+      "has_item": "2025-08-22 20:41:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
+    "criteria": {
+      "has_item": "2025-08-22 20:42:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_nugget_from_smelting": {
+    "criteria": {
+      "has_item": "2025-08-22 20:36:09 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-08-22 19:37:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blue_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/hellish_bauble": {
+    "criteria": {
+      "has_item": "2025-08-22 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/specter_bangle": {
+    "criteria": {
+      "has_item": "2025-08-22 20:41:51 +0000"
     },
     "done": true
   },
@@ -24830,9 +24884,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/black_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_nugget_from_blasting": {
+    "criteria": {
+      "has_item": "2025-08-22 20:36:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_boots": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/ender_bramble": {
+    "criteria": {
+      "has_item": "2025-08-22 20:41:51 +0000"
     },
     "done": true
   },
@@ -24854,6 +24926,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/orange_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/altars": {
+    "criteria": {
+      "has_item": "2025-08-22 20:38:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_shovel": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
@@ -24863,6 +24947,12 @@
   "aquamirae:recipes/spinefish": {
     "criteria": {
       "has_item": "2025-08-22 18:50:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/gray_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
     },
     "done": true
   },
@@ -24902,9 +24992,33 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/light_blue_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/magenta_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/scorched_bramble": {
+    "criteria": {
+      "has_item": "2025-08-22 20:42:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_axe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_horn": {
+    "criteria": {
+      "has_item": "2025-08-22 20:42:13 +0000"
     },
     "done": true
   },
@@ -24920,6 +25034,24 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/lime_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/purple_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/pink_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_sword": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-08-22 19:37:24 +0000"
@@ -24929,6 +25061,30 @@
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2025-08-22 18:53:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/green_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/red_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/brown_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cyan_coffin_from_white_coffin": {
+    "criteria": {
+      "has_item": "2025-08-22 20:37:14 +0000"
     },
     "done": true
   },
