@@ -2539,3 +2539,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [20:15:04] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37624, l='ServerLevel[world]', x=-1817.00, y=84.00, z=450.00] as it would cause deadlock
 [20:15:29] [Worker-Main-89/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37937, l='ServerLevel[world]', x=-1931.00, y=75.00, z=412.00] as it would cause deadlock
 [20:15:29] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/37940, l='ServerLevel[world]', x=-1931.00, y=75.00, z=412.00] as it would cause deadlock
+[20:16:22] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[20:17:28] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[20:17:28] [Server thread/INFO]: Taza_free left the game
+[20:17:28] [Server thread/INFO]: remove player wand
+[20:17:28] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
