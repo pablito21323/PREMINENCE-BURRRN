@@ -24190,6 +24190,7 @@
       "betterend:foggy_mushroomland": "2025-08-19 01:17:17 +0000",
       "betterend:empty_smaragdant_cave": "2025-08-19 01:18:30 +0000",
       "betterend:glowing_grasslands": "2025-08-19 01:14:03 +0000",
+      "betterend:lush_aurora_cave": "2025-08-22 21:54:07 +0000",
       "betterend:dragon_graveyards": "2025-08-19 01:16:10 +0000",
       "betterend:megalake_grove": "2025-08-19 01:23:53 +0000",
       "betterend:umbra_valley": "2025-08-19 00:35:34 +0000",
@@ -25300,6 +25301,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-22 21:51:32 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:moonlight_tools": {
     "criteria": {
       "moonlight_greatsword": "2025-08-22 21:40:03 +0000"
@@ -25324,6 +25331,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-22 21:51:32 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
       "has_item": "2025-08-22 21:40:45 +0000"
@@ -25333,6 +25346,12 @@
   "bewitchment:recipes/decorations/black_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-22 21:51:32 +0000"
     },
     "done": true
   },
