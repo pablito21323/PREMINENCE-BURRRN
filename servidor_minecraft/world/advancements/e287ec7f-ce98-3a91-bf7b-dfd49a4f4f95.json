@@ -25029,6 +25029,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/end_lotus_composter": {
+    "criteria": {
+      "has_end_lotus_slab": "2025-08-22 21:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-08-22 19:07:36 +0000"
@@ -25194,6 +25200,12 @@
   "bewitchment:recipes/decorations/magenta_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_barrel": {
+    "criteria": {
+      "has_end_lotus_slab": "2025-08-22 21:59:25 +0000"
     },
     "done": true
   },
