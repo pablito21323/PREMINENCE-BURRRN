@@ -24755,9 +24755,21 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-08-21 02:13:09 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/sea_stew": {
     "criteria": {
       "has_item": "2025-08-21 02:14:07 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-08-21 02:15:56 +0000"
     },
     "done": true
   },
@@ -24767,9 +24779,9 @@
     },
     "done": true
   },
-  "aquamirae:adventure/obtain_shell_horn": {
+  "aquamirae:recipes/oxygen_tank": {
     "criteria": {
-      "shell_horn": "2025-08-21 02:13:09 +0000"
+      "has_item": "2025-08-21 02:15:58 +0000"
     },
     "done": true
   },
@@ -24779,15 +24791,27 @@
     },
     "done": true
   },
-  "aquamirae:recipes/oxygen_tank": {
+  "aquamirae:adventure/obtain_fin": {
     "criteria": {
-      "has_item": "2025-08-21 02:15:58 +0000"
+      "fin": "2025-08-22 18:47:52 +0000"
     },
     "done": true
   },
-  "aquamirae:recipes/three_bolt_helmet": {
+  "aquamirae:recipes/spinefish": {
     "criteria": {
-      "has_item": "2025-08-21 02:15:56 +0000"
+      "has_item": "2025-08-22 18:50:17 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-08-22 18:47:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-08-22 18:47:59 +0000"
     },
     "done": true
   },
