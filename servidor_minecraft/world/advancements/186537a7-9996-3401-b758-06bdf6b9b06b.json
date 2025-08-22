@@ -25122,12 +25122,6 @@
     },
     "done": true
   },
-  "aquamirae:recipes/anglers_fang": {
-    "criteria": {
-      "has_item": "2025-08-21 01:58:04 +0000"
-    },
-    "done": true
-  },
   "aquamirae:recipes/abyssal_amethyst": {
     "criteria": {
       "has_item": "2025-08-21 01:58:00 +0000"
@@ -25140,9 +25134,45 @@
     },
     "done": true
   },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-08-21 01:58:04 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_anglers_fang": {
     "criteria": {
       "anglers_fang": "2025-08-21 01:58:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-22 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-22 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-22 19:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-22 19:04:14 +0000"
     },
     "done": true
   },

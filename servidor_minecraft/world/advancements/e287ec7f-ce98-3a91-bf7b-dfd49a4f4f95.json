@@ -24791,9 +24791,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-22 19:07:36 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-08-22 18:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-22 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-22 19:07:36 +0000"
     },
     "done": true
   },
@@ -24806,6 +24824,12 @@
   "aquamirae:recipes/spinefish": {
     "criteria": {
       "has_item": "2025-08-22 18:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-22 19:03:48 +0000"
     },
     "done": true
   },
