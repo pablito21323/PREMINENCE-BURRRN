@@ -25146,6 +25146,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/book_of_shadows": {
+    "criteria": {
+      "has_item": "2025-08-22 19:44:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-08-22 19:04:14 +0000"
@@ -25158,9 +25170,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_button": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/vertical_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-22 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
     },
     "done": true
   },
@@ -25176,6 +25218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-08-22 19:03:48 +0000"
@@ -25185,6 +25233,24 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-22 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-08-22 19:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-22 19:54:50 +0000"
     },
     "done": true
   },
