@@ -2684,3 +2684,52 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:25:02] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [21:25:03] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [21:25:07] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[21:29:30] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[21:30:08] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[21:31:21] [Server thread/INFO]: VadniesHael was fireballed by Baphomet
+[21:31:21] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.31.21.dat
+[21:31:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:31:26] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1766.500000, 86.500000, 1820.500000]
+[21:31:29] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1766, 86, 1820, minecraft:overworld
+[21:31:59] [Server thread/INFO]: VadniesHael was blown up by Baphomet
+[21:31:59] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_22.08.2025-21.31.59.dat
+[21:32:00] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:32:04] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:32:06] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1756, 88, 1828, minecraft:overworld
+[21:32:44] [Server thread/WARN]: Taza_free moved wrongly!
+[21:33:27] [Server thread/INFO]: [VadniesHael: Gave 644 [Block of Lapis Lazuli] to Taza_free]
+[21:33:38] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:34:39] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers_expansion:deadeye isComplete: false
+[21:34:39] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers_expansion:deadeye isComplete: false
+[21:34:40] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers_expansion:deadeye isComplete: false
+[21:34:41] [Server thread/INFO]: Taza_free has made the advancement [Bounty Hunting]
+[21:34:41] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers_expansion:deadeye isComplete: true
+[21:34:51] [Server thread/WARN]: VadniesHael moved wrongly!
+[21:34:52] [Server thread/WARN]: VadniesHael moved wrongly!
+[21:35:00] [Server thread/WARN]: Taza_free moved wrongly!
+[21:35:26] [Server thread/INFO]: <VadniesHael> XD
+[21:36:08] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@5125c0bc, suppressing error
+java.lang.ClassCastException: class artifacts.item.EverlastingFoodItem cannot be cast to class net.minecraft.item.BlockItem (artifacts.item.EverlastingFoodItem and net.minecraft.item.BlockItem are in unnamed module of loader 'knot' @5034c75a)
+	at net.farrucho.openblocks.block.custom.ElevatorBlock.onUse(ElevatorBlock.java:62) ~[openblockselevator-0.0.3-1.20.1.jar:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.onUse(AbstractBlock.java:1133) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:343) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkThreadUtils.method_11072(NetworkThreadUtils.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$method_18857$297(MinecraftServer.java) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$fjm000$modernfix$managedBlock(MinecraftServer.java:1823) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:36:38] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]

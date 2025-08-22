@@ -25076,6 +25076,12 @@
     },
     "done": true
   },
+  "bewitchment:hidden_unlocks/caduceus": {
+    "criteria": {
+      "has_item": "2025-08-22 21:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-08-22 21:03:48 +0000"
@@ -25160,6 +25166,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lapis_plate": {
+    "criteria": {
+      "has_lapis_block": "2025-08-22 21:34:08 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/purple_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
@@ -25193,6 +25205,12 @@
   "bewitchment:recipes/decorations/green_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-08-22 21:34:08 +0000"
     },
     "done": true
   },

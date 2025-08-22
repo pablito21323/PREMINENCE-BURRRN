@@ -25310,6 +25310,12 @@
     },
     "done": true
   },
+  "bewitchment:hidden_unlocks/caduceus": {
+    "criteria": {
+      "has_item": "2025-08-22 21:29:16 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/light_blue_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
@@ -25319,6 +25325,12 @@
   "bewitchment:recipes/decorations/magenta_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:deadeye_spells": {
+    "criteria": {
+      "cast": "2025-08-22 21:34:41 +0000"
     },
     "done": true
   },
@@ -25349,6 +25361,12 @@
   "bewitchment:recipes/decorations/red_coffin_from_white_coffin": {
     "criteria": {
       "has_item": "2025-08-22 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_heart": {
+    "criteria": {
+      "has_item": "2025-08-22 21:29:16 +0000"
     },
     "done": true
   },
