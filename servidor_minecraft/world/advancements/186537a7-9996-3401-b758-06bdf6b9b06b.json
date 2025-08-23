@@ -25769,6 +25769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-08-23 00:01:13 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/ashes": {
     "criteria": {
       "arcane": "2025-08-22 23:38:18 +0000"
@@ -25796,6 +25802,12 @@
   "spellbladenext:spellblades/glassocean": {
     "criteria": {
       "arcane": "2025-08-22 23:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-08-23 00:01:13 +0000"
     },
     "done": true
   },
