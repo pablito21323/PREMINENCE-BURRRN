@@ -26097,5 +26097,17 @@
     },
     "done": true
   },
+  "prominent:level_50": {
+    "criteria": {
+      "requirement": "2025-08-24 05:13:04 +0000"
+    },
+    "done": true
+  },
+  "prominent:end_of_voids_invasion": {
+    "criteria": {
+      "requirement": "2025-08-24 05:13:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -3185,3 +3185,104 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:08:54] [Netty Epoll Server IO #4/INFO]: Channel update: Taza_free -> default
 [05:08:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
 [05:09:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:10:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:10:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:10:09] [Server thread/INFO]: Attack!
+[05:10:10] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -451, 77, 2968, minecraft:the_end
+[05:10:10] [Server thread/INFO]: Attack!
+[05:10:11] [Server thread/INFO]: Attack!
+[05:10:12] [Server thread/INFO]: Attack!
+[05:10:13] [Server thread/INFO]: Attack!
+[05:10:14] [Server thread/INFO]: Attack!
+[05:10:15] [Server thread/INFO]: Attack!
+[05:10:20] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -445, 77, 2953, minecraft:the_end
+[05:10:26] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -449, 77, 2939, minecraft:the_end
+[05:10:27] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -449, 77, 2940, minecraft:the_end
+[05:13:03] [Server thread/INFO]: VadniesHael has completed the challenge [Hero of the Void's Invasion]
+[05:13:04] [Server thread/INFO]: VadniesHael has completed the challenge [Expansion Unlock: Hasturian Era]
+[05:14:54] [Server thread/INFO]: [VadniesHael: Gave 1 [Eldritch Pedestal] to VadniesHael]
+[05:15:32] [Server thread/INFO]: [VadniesHael: Gave 4 [Aberration's Heart] to VadniesHael]
+[05:15:46] [Server thread/INFO]: Attack!
+[05:15:47] [Server thread/INFO]: Attack!
+[05:15:48] [Server thread/INFO]: Attack!
+[05:15:49] [Server thread/INFO]: Attack!
+[05:15:50] [Server thread/INFO]: Attack!
+[05:15:51] [Server thread/INFO]: Attack!
+[05:15:52] [Server thread/INFO]: Attack!
+[05:15:53] [Server thread/INFO]: Attack!
+[05:15:54] [Server thread/INFO]: Attack!
+[05:15:55] [Server thread/INFO]: Attack!
+[05:15:57] [Server thread/INFO]: Attack!
+[05:16:04] [Server thread/INFO]: Attack!
+[05:16:05] [Server thread/INFO]: Attack!
+[05:16:09] [Server thread/INFO]: Attack!
+[05:16:10] [Server thread/INFO]: Attack!
+[05:16:11] [Server thread/INFO]: Attack!
+[05:16:12] [Server thread/INFO]: Attack!
+[05:16:13] [Server thread/INFO]: Attack!
+[05:16:14] [Server thread/INFO]: Attack!
+[05:16:15] [Server thread/INFO]: Attack!
+[05:16:16] [Server thread/INFO]: Attack!
+[05:16:17] [Server thread/INFO]: Attack!
+[05:16:22] [Server thread/INFO]: Attack!
+[05:16:27] [Server thread/INFO]: Attack!
+[05:16:39] [Server thread/INFO]: Attack!
+[05:16:42] [Server thread/INFO]: Attack!
+[05:16:43] [Server thread/INFO]: Attack!
+[05:16:44] [Server thread/INFO]: Attack!
+[05:16:45] [Server thread/INFO]: Attack!
+[05:16:46] [Server thread/INFO]: VadniesHael was slain by The Faceless
+[05:16:46] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.16.46.dat
+[05:16:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:16:51] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:16:51] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:17:10] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -466, 77, 2968, minecraft:the_end
+[05:17:20] [Server thread/INFO]: Attack!
+[05:17:21] [Server thread/INFO]: Attack!
+[05:17:22] [Server thread/INFO]: Attack!
+[05:17:23] [Server thread/INFO]: Attack!
+[05:17:24] [Server thread/INFO]: Attack!
+[05:17:26] [Server thread/INFO]: Attack!
+[05:17:27] [Server thread/INFO]: Attack!
+[05:17:28] [Server thread/INFO]: Attack!
+[05:17:29] [Server thread/INFO]: Attack!
+[05:17:30] [Server thread/INFO]: Attack!
+[05:17:31] [Server thread/INFO]: Attack!
+[05:17:32] [Server thread/INFO]: Attack!
+[05:17:34] [Server thread/INFO]: Attack!
+[05:17:35] [Server thread/INFO]: Attack!
+[05:17:36] [Server thread/INFO]: VadniesHael was slain by The Faceless
+[05:17:36] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.17.36.dat
+[05:17:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:17:40] [Server thread/INFO]: Attack!
+[05:17:40] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:17:41] [Server thread/INFO]: VadniesHael died
+[05:17:41] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.17.41.dat
+[05:17:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:17:44] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:17:48] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:17:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:17:51] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -469, 76, 2956, minecraft:the_end
+[05:17:53] [Server thread/INFO]: Taza_free was slain by Aberration
+[05:17:53] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-05.17.53.dat
+[05:17:54] [Server thread/INFO]: Attack!
+[05:17:54] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:17:55] [Server thread/INFO]: Attack!
+[05:17:56] [Server thread/INFO]: Attack!
+[05:17:57] [Server thread/INFO]: Attack!
+[05:17:58] [Server thread/INFO]: Attack!
+[05:17:59] [Server thread/INFO]: Attack!
+[05:17:59] [Server thread/INFO]: VadniesHael died because of Aberration
+[05:17:59] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.17.59.dat
+[05:18:00] [Server thread/INFO]: Attack!
+[05:18:01] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:18:41] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:18:43] [Server thread/INFO]: Taza_free was slain by Aberration
+[05:18:43] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-05.18.43.dat
+[05:18:45] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:19:28] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:19:31] [Server thread/INFO]: Taza_free was slain by Aberration
+[05:19:31] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-05.19.31.dat
+[05:19:33] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:19:58] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:20:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
