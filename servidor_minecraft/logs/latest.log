@@ -3317,3 +3317,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4999ms or 99 ticks behind
 [05:25:45] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
 [05:26:36] [Server thread/WARN]: Taza_free moved wrongly!
+[05:31:23] [Server thread/WARN]: Taza_free moved wrongly!
+[05:31:24] [Server thread/WARN]: Taza_free moved wrongly!
+[05:31:26] [Server thread/WARN]: Taza_free moved wrongly!
+[05:31:27] [Server thread/WARN]: Taza_free moved wrongly!
+[05:33:09] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:33:09] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
+[05:33:28] [Server thread/INFO]: [VadniesHael: Gave 644 [Runic Tablet] to VadniesHael]
+[05:37:03] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:39:20] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:39:40] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
