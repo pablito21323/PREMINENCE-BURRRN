@@ -580,6 +580,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2025-08-24 04:42:48 +0000",
       "baked_potato": "2025-08-10 22:03:56 +0000",
       "bread": "2025-08-10 20:55:20 +0000",
       "golden_apple": "2025-08-14 19:37:50 +0000",
@@ -25808,6 +25809,300 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2025-08-23 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_stained_glass_from_orange_stained_glass_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_stained_glass_from_light_gray_stained_glass_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_concrete_powder_from_light_gray_concrete_powder_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_terracotta_from_orange_terracotta_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_stained_glass_pane_from_light_gray_stained_glass_pane_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_concrete_powder_from_orange_concrete_powder_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_candle_from_white_candle_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_candle_from_light_gray_candle_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_wool_from_light_gray_wool_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_concrete_powder_from_gray_concrete_powder_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_carpet_from_gray_carpet_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_candle_from_orange_candle_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_wool_from_orange_wool_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_stained_glass_pane_from_gray_stained_glass_pane_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_stained_glass_from_gray_stained_glass_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_stained_glass_from_white_stained_glass_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_concrete_powder_from_white_concrete_powder_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_terracotta_from_gray_terracotta_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_wool_from_white_wool_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_candle_from_candle_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_carpet_from_orange_carpet_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_terracotta_from_light_gray_terracotta_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_stained_glass_pane_from_glass_pane_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_stained_glass_pane_from_white_stained_glass_pane_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_carpet_from_white_carpet_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_carpet_from_light_gray_carpet_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_black": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_wool_from_gray_wool_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_stained_glass_pane_from_orange_stained_glass_pane_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_terracotta_from_terracotta_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_candle_from_gray_candle_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/black_stained_glass_from_glass_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/gray_terracotta_from_white_terracotta_with_black_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-24 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 04:42:00 +0000"
     },
     "done": true
   },
