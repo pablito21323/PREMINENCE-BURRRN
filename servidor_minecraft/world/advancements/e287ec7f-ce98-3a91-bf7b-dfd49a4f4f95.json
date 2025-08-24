@@ -25767,6 +25767,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-08-24 04:37:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_black": {
     "criteria": {
       "has_black_dye": "2025-08-24 04:42:05 +0000"
@@ -25776,12 +25782,6 @@
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_orange_stained_glass_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-08-24 04:42:05 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/large_graveyard": {
-    "criteria": {
-      "large_graveyard": "2025-08-24 04:37:52 +0000"
     },
     "done": true
   },

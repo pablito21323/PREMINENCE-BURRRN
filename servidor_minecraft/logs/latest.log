@@ -3027,3 +3027,161 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:59:07] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [04:59:30] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
 [04:59:33] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:59:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[04:59:39] [Server thread/INFO]: Attack!
+[04:59:39] [Server thread/INFO]: Taza_free was slain by Aberration
+[04:59:39] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-04.59.39.dat
+[04:59:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[04:59:52] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[04:59:54] [Server thread/INFO]: Attack!
+[04:59:56] [Server thread/INFO]: VadniesHael died
+[04:59:56] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-04.59.56.dat
+[04:59:57] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:00:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:00:20] [Server thread/INFO]: Taza_free was slain by Aberration
+[05:00:20] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-05.00.20.dat
+[05:00:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:00:55] [Server thread/WARN]: Taza_free moved wrongly!
+[05:00:56] [Server thread/WARN]: Taza_free moved wrongly!
+[05:01:01] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:01:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:01:08] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[05:01:35] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:01:37] [Server thread/INFO]: Attack!
+[05:01:52] [Server thread/INFO]: VadniesHael died
+[05:01:52] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.01.52.dat
+[05:01:54] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:01:59] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:02:06] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -450, 78, 2940, minecraft:the_end
+[05:02:08] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:02:08] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -449, 78, 2940, minecraft:the_end
+[05:02:09] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -450, 78, 2942, minecraft:the_end
+[05:02:14] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:02:14] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:02:27] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -453, 78, 2950, minecraft:the_end
+[05:02:29] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:02:31] [Server thread/INFO]: Attack!
+[05:02:32] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:02:33] [Server thread/INFO]: VadniesHael was slain by Aberration
+[05:02:33] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.02.33.dat
+[05:02:34] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:02:44] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:03:02] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:03:24] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:03:28] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:03:31] [Server thread/INFO]: Attack!
+[05:03:32] [Server thread/INFO]: VadniesHael died
+[05:03:32] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.03.32.dat
+[05:03:34] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:03:36] [Server thread/INFO]: Attack!
+[05:03:37] [Server thread/INFO]: Attack!
+[05:03:38] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:03:38] [Server thread/INFO]: Attack!
+[05:03:38] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:03:39] [Server thread/INFO]: Attack!
+[05:03:40] [Server thread/INFO]: Attack!
+[05:03:41] [Server thread/INFO]: Attack!
+[05:03:42] [Server thread/INFO]: Attack!
+[05:03:43] [Server thread/INFO]: VadniesHael died
+[05:03:43] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.03.43.dat
+[05:03:44] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:03:45] [Server thread/INFO]: Taza_free was slain by Aberration
+[05:03:45] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-05.03.45.dat
+[05:03:47] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:03:47] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:03:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:03:48] [Server thread/INFO]: VadniesHael was slain by Aberration
+[05:03:48] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.03.48.dat
+[05:03:50] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:04:06] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:04:17] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:04:38] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -477, 77, 2959, minecraft:the_end
+[05:04:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:04:52] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:04:54] [Server thread/INFO]: Attack!
+[05:04:56] [Server thread/INFO]: Taza_free died
+[05:04:56] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.dragon_24.08.2025-05.04.56.dat
+[05:04:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:04:58] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:05:00] [Server thread/INFO]: Attack!
+[05:05:01] [Server thread/INFO]: Attack!
+[05:05:03] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[05:05:03] [Server thread/INFO]: Taza_free left the game
+[05:05:03] [Server thread/INFO]: remove player wand
+[05:05:03] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[05:05:03] [Server thread/INFO]: Attack!
+[05:05:10] [Server thread/INFO]: Attack!
+[05:05:11] [Server thread/INFO]: Attack!
+[05:05:19] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4642ms or 92 ticks behind
+[05:06:23] [Server thread/WARN]: VadniesHael moved wrongly!
+[05:06:24] [Server thread/WARN]: VadniesHael moved wrongly!
+[05:07:00] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[05:08:46] [Server thread/INFO]: [Handshake] Sending channel query
+[05:08:46] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[05:08:46] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[05:08:46] [Server thread/INFO]: Taza_free[/127.137.233.5:47301] logged in with entity id 82286 at (1764.4136943149613, 122.0, 1915.725193490369)
+[05:08:46] [Server thread/INFO]: Sending server config values to client
+[05:08:46] [Server thread/INFO]: Syncing config to Taza_free (186537a7-9996-3401-b758-06bdf6b9b06b)
+[05:08:46] [Server thread/INFO]: Loading config from file...
+[05:08:46] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[05:08:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:08:46] [Server thread/INFO]: Taza_free joined the game
+[05:08:46] [Server thread/INFO]: Loading Configs for Sortilege
+[05:08:46] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[05:08:46] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[05:08:46] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[05:08:46] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:08:46] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[05:08:46] [Server thread/INFO]: PLAYER_JOIN
+[05:08:46] [Server thread/INFO]: add_player wand
+[05:08:46] [Server thread/INFO]: config sent
+[05:08:50] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[05:08:54] [Netty Epoll Server IO #4/INFO]: Channel update: Taza_free -> default
+[05:08:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
+[05:09:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
