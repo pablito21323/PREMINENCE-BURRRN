@@ -3286,3 +3286,34 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:19:33] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
 [05:19:58] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
 [05:20:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:20:08] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:20:11] [Server thread/INFO]: Attack!
+[05:20:24] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:20:34] [Server thread/INFO]: VadniesHael was slain by Aberration
+[05:20:34] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_24.08.2025-05.20.34.dat
+[05:20:35] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -485, 78, 2963, minecraft:the_end
+[05:20:35] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:20:41] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:20:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:20:49] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -486, 78, 2961, minecraft:the_end
+[05:20:49] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -482, 78, 2962, minecraft:the_end
+[05:20:51] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -485, 78, 2961, minecraft:the_end
+[05:21:43] [Server thread/INFO]: Taza_free has completed the challenge [Hero of the Void's Invasion]
+[05:21:44] [Server thread/INFO]: Taza_free has completed the challenge [Expansion Unlock: Hasturian Era]
+[05:21:53] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:21:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
+[05:22:03] [Server thread/INFO]: VadniesHael has reached the goal [A Call of Hope]
+[05:22:03] [Worker-Main-87/WARN]: Non-existent template pool reference: minecraft:item
+[05:22:19] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:22:20] [Worker-Main-87/WARN]: Unable to load item from: {Count:1b,id:"spellbladenext:thesis_spell_book"}
+[05:22:20] [Worker-Main-144/WARN]: Unable to load item from: {Count:1b,id:"spellbladenext:thesis_spell_book"}
+[05:22:21] [Worker-Main-3/WARN]: Non-existent template pool reference: minecraft:item
+[05:22:39] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4485ms or 89 ticks behind
+[05:23:00] [Server thread/INFO]: Taza_free has reached the goal [A Call of Hope]
+[05:23:15] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:23:16] [Worker-Main-87/WARN]: Non-existent template pool reference: minecraft:item
+[05:25:34] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4999ms or 99 ticks behind
+[05:25:45] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:26:36] [Server thread/WARN]: Taza_free moved wrongly!

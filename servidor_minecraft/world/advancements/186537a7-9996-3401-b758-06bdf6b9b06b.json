@@ -26106,5 +26106,23 @@
     },
     "done": true
   },
+  "prominent:level_50": {
+    "criteria": {
+      "requirement": "2025-08-24 05:21:44 +0000"
+    },
+    "done": true
+  },
+  "prominent:beacon_of_hope": {
+    "criteria": {
+      "requirement": "2025-08-24 05:23:00 +0000"
+    },
+    "done": true
+  },
+  "prominent:end_of_voids_invasion": {
+    "criteria": {
+      "requirement": "2025-08-24 05:21:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
