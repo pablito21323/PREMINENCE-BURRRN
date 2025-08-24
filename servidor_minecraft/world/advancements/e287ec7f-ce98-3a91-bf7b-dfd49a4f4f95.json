@@ -25737,9 +25737,21 @@
     },
     "done": true
   },
+  "prominent:ashedar": {
+    "criteria": {
+      "requirement": "2025-08-22 23:17:42 +0000"
+    },
+    "done": true
+  },
   "prominent:fyralath": {
     "criteria": {
       "requirement": "2025-08-22 23:18:38 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/glassocean": {
+    "criteria": {
+      "arcane": "2025-08-22 23:35:05 +0000"
     },
     "done": true
   },
@@ -25749,21 +25761,9 @@
     },
     "done": true
   },
-  "prominent:ashedar": {
-    "criteria": {
-      "requirement": "2025-08-22 23:17:42 +0000"
-    },
-    "done": true
-  },
   "spellbladenext:spellblades/omni": {
     "criteria": {
       "arcane": "2025-08-22 23:38:13 +0000"
-    },
-    "done": true
-  },
-  "spellbladenext:spellblades/glassocean": {
-    "criteria": {
-      "arcane": "2025-08-22 23:35:05 +0000"
     },
     "done": true
   },
