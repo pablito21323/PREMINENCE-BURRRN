@@ -2208,3 +2208,17 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:50:42] [Server thread/WARN]: Tier 1 Rover (vehicle of VadniesHael) moved wrongly! 0.5312804579734802
 [01:50:42] [Server thread/WARN]: Tier 1 Rover (vehicle of VadniesHael) moved wrongly! 1.0
 [01:50:42] [Server thread/WARN]: Tier 1 Rover (vehicle of VadniesHael) moved wrongly! 1.0
+[01:56:06] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[01:56:29] [Server thread/INFO]: VadniesHael was slain by Eel
+[01:56:29] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.dragon_25.08.2025-01.56.29.dat
+[01:56:29] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01:56:29] [Netty Epoll Server IO #3/ERROR]: Combo count: 1 is dual wielding: false
+[01:56:29] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[01:56:29] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[01:56:29] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 6 | client: 6
+[01:56:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[01:57:01] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1774, 99, 1945, minecraft:overworld
+[01:58:12] [Server thread/INFO]: VadniesHael lost connection: Disconnected
+[01:58:12] [Server thread/INFO]: VadniesHael left the game
+[01:58:12] [Server thread/INFO]: remove player wand
+[01:58:12] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
