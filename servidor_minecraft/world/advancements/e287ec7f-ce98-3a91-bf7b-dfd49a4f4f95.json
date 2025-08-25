@@ -26218,6 +26218,12 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-08-25 16:48:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bloodthirsty": {
     "criteria": {
       "condition_1": "2025-08-25 16:18:12 +0000"

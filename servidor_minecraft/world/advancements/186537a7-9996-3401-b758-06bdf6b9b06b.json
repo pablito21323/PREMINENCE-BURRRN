@@ -26154,6 +26154,30 @@
     },
     "done": true
   },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-08-25 16:45:14 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-08-25 16:48:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-08-25 16:45:14 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-08-25 16:48:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/agave_medicine": {
     "criteria": {
       "has_agave_leaf": "2025-08-25 16:21:51 +0000"
