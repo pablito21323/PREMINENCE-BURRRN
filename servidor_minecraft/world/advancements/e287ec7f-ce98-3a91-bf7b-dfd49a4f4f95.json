@@ -26145,25 +26145,49 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/goat_gear_boots": {
-    "criteria": {
-      "has_leather_boots": "2025-08-25 01:28:07 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:oxygen_distributor": {
-    "criteria": {
-      "has_oxygen_distributor": "2025-08-25 01:50:27 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:sentry_watcher/sentry_watcher_use_egg": {
     "criteria": {
       "sentry_watcher_spawn_egg": "2025-08-25 01:17:30 +0000"
     },
     "done": true
   },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-08-25 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-08-25 01:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
     "criteria": {
       "has_leather_boots": "2025-08-25 01:28:07 +0000"
     },
@@ -26175,39 +26199,27 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/squid_armor_boots": {
-    "criteria": {
-      "has_leather_boots": "2025-08-25 01:28:07 +0000"
-    },
-    "done": true
-  },
   "ad_astra:rover": {
     "criteria": {
       "has_rover": "2025-08-25 01:49:51 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/scale_mail_boots": {
+  "ad_astra:oxygen_distributor": {
     "criteria": {
-      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+      "has_oxygen_distributor": "2025-08-25 01:50:27 +0000"
     },
     "done": true
   },
-  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+  "aquamirae:recipes/abyssal_amethyst": {
     "criteria": {
-      "has_glow_goop": "2025-08-25 01:25:12 +0000"
+      "has_item": "2025-08-25 16:04:40 +0000"
     },
     "done": true
   },
-  "friendsandfoes:nether/kill_wildfire": {
+  "aquamirae:recipes/sharp_bones": {
     "criteria": {
-      "killed_wildfire": "2025-08-25 01:18:05 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/climbing_gear_boots": {
-    "criteria": {
-      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+      "has_item": "2025-08-25 16:04:40 +0000"
     },
     "done": true
   },
