@@ -2572,3 +2572,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [16:21:56] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/10257, l='ServerLevel[world]', x=-1166.00, y=31.00, z=-1852.00] as it would cause deadlock
 [16:21:56] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/10260, l='ServerLevel[world]', x=-1166.00, y=31.00, z=-1852.00] as it would cause deadlock
 [16:28:02] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[16:39:43] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
