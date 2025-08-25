@@ -26151,6 +26151,12 @@
     },
     "done": true
   },
+  "ad_astra:oxygen_distributor": {
+    "criteria": {
+      "has_oxygen_distributor": "2025-08-25 01:50:27 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:sentry_watcher/sentry_watcher_use_egg": {
     "criteria": {
       "sentry_watcher_spawn_egg": "2025-08-25 01:17:30 +0000"
@@ -26163,9 +26169,21 @@
     },
     "done": true
   },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "has_tier_4_rocket": "2025-08-25 01:48:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rover": {
+    "criteria": {
+      "has_rover": "2025-08-25 01:49:51 +0000"
     },
     "done": true
   },
