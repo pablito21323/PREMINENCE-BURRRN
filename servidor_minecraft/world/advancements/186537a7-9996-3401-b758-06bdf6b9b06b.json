@@ -26154,5 +26154,11 @@
     },
     "done": true
   },
+  "betternether:recipes/food/agave_medicine": {
+    "criteria": {
+      "has_agave_leaf": "2025-08-25 16:21:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -26230,6 +26230,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/agave_medicine": {
+    "criteria": {
+      "has_agave_leaf": "2025-08-25 16:22:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-08-25 16:19:49 +0000"
