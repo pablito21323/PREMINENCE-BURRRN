@@ -18558,6 +18558,7 @@
       "betternether:gravel_desert": "2025-08-17 02:13:22 +0000",
       "betternether:old_fungiwoods": "2025-08-17 01:03:20 +0000",
       "betternether:nether_grasslands": "2025-08-17 03:08:38 +0000",
+      "betternether:old_swampland": "2025-08-25 16:18:57 +0000",
       "betternether:nether_swampland": "2025-08-17 01:35:16 +0000",
       "betternether:crimson_glowing_woods": "2025-08-16 03:20:32 +0000",
       "betternether:magma_land": "2025-08-17 00:55:44 +0000",
@@ -26217,9 +26218,21 @@
     },
     "done": true
   },
+  "soulsweapons:bloodthirsty": {
+    "criteria": {
+      "condition_1": "2025-08-25 16:18:12 +0000"
+    },
+    "done": false
+  },
   "aquamirae:recipes/sharp_bones": {
     "criteria": {
       "has_item": "2025-08-25 16:04:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-08-25 16:19:49 +0000"
     },
     "done": true
   },
