@@ -2200,3 +2200,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 29 more
 [01:30:01] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
 [01:30:57] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[01:40:37] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
