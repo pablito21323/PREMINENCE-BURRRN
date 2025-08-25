@@ -2623,3 +2623,27 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [16:48:18] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [16:48:19] [Server thread/INFO]: VadniesHael has made the advancement [A fortress? No, a citadel!]
 [16:48:58] [Server thread/INFO]: Taza_free has made the advancement [Drop it like it's hot]
+[16:52:43] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[16:52:56] [Server thread/INFO]: No return portal found
+[16:52:56] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[16:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14660ms or 293 ticks behind
+[16:53:11] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[16:53:11] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[16:53:12] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[16:53:12] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[16:54:18] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[16:55:22] [Server thread/INFO]: Locating element minecraft:ancient_city took 348 ms
+[16:55:24] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -13807.500000, 134.332643, -15359.500000]
+[16:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6527ms or 130 ticks behind
+[16:56:24] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[16:56:44] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[16:57:04] [Server thread/INFO]: VadniesHael has made the advancement [Who turned the lights off?]
+[16:59:05] [Server thread/INFO]: [VadniesHael: Gave 1 [Night Vision Goggles] to VadniesHael]
+[17:00:31] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:00:57] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:01:20] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:01:47] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:02:05] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:02:10] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:02:26] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:02:43] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
