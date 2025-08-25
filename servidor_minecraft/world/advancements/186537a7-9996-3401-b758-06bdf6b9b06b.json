@@ -26106,9 +26106,39 @@
     },
     "done": true
   },
+  "soulsweapons:demon_heart": {
+    "criteria": {
+      "demon_heart": "2025-08-24 05:44:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/demon_chunk": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/molten_demon_heart": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/crimson_obsidian": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:25 +0000"
+    },
+    "done": true
+  },
   "prominent:level_50": {
     "criteria": {
       "requirement": "2025-08-24 05:21:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/crimson_ingot": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:25 +0000"
     },
     "done": true
   },

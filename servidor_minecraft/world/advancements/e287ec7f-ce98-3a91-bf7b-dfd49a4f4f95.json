@@ -26097,6 +26097,12 @@
     },
     "done": true
   },
+  "prominent:end_of_voids_invasion": {
+    "criteria": {
+      "requirement": "2025-08-24 05:13:03 +0000"
+    },
+    "done": true
+  },
   "prominent:level_50": {
     "criteria": {
       "requirement": "2025-08-24 05:13:04 +0000"
@@ -26109,9 +26115,81 @@
     },
     "done": true
   },
-  "prominent:end_of_voids_invasion": {
+  "soulsweapons:demon_heart": {
     "criteria": {
-      "requirement": "2025-08-24 05:13:03 +0000"
+      "demon_heart": "2025-08-24 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/demon_chunk": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/molten_demon_heart": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/crimson_obsidian": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/crimson_ingot": {
+    "criteria": {
+      "has_item": "2025-08-24 05:44:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sentry_watcher/sentry_watcher_use_egg": {
+    "criteria": {
+      "sentry_watcher_spawn_egg": "2025-08-25 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-08-25 01:25:12 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-08-25 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-25 01:28:07 +0000"
     },
     "done": true
   },
